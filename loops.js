@@ -5,5 +5,6 @@ const forLoop = function(array){
     } else {
       console.log("I am ${count} strange loops.");
     };
+    return array;
   }
 }
