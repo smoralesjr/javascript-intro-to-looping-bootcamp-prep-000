@@ -2,7 +2,7 @@ const forLoop = function(array){
   for (let count = 0, count < 25, count++){
     if (count === 1){
       console.log("I am ${count} strange loop.");
-    } else {
+    }; else {
       console.log("I am ${count} strange loops.");
     }
   }
